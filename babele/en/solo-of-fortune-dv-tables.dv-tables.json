@@ -1,0 +1,422 @@
+{
+  "label": "Solo of Fortune — DV Tables",
+  "mapping": {},
+  "entries": {
+    "DV Snubnose Pistol": {
+      "name": "DV Snubnose Pistol",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Snubnose Pistol”.</p>",
+      "results": [
+        {
+          "0-6": "12",
+          "7-12": "14",
+          "13-25": "20",
+          "26-50": "26",
+          "51-100": "35",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Pistol": {
+      "name": "DV Pistol",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Pistol”.</p>",
+      "results": [
+        {
+          "0-6": "13",
+          "7-12": "15",
+          "13-25": "20",
+          "26-50": "25",
+          "51-100": "30",
+          "101-200": "35",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Long-Barrel Pistol": {
+      "name": "DV Long-Barrel Pistol",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Long Barrel Pistol”.</p>",
+      "results": [
+        {
+          "0-6": "15",
+          "7-12": "13",
+          "13-25": "14",
+          "26-50": "19",
+          "51-100": "20",
+          "101-200": "22",
+          "201-400": "30",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Subcompact SMG": {
+      "name": "DV Subcompact SMG",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Subcompact SMG”.</p>",
+      "results": [
+        {
+          "0-6": "13",
+          "7-12": "13",
+          "13-25": "14",
+          "26-50": "21",
+          "51-100": "27",
+          "101-200": "30",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV SMG": {
+      "name": "DV SMG",
+      "description": "<p>Solo of Fortune: expanded range DV table for “SMG”.</p>",
+      "results": [
+        {
+          "0-6": "15",
+          "7-12": "13",
+          "13-25": "15",
+          "26-50": "20",
+          "51-100": "25",
+          "101-200": "25",
+          "201-400": "30",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Short Barrel Shotgun": {
+      "name": "DV Short Barrel Shotgun",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Short Barrel Shotgun”.</p>",
+      "results": [
+        {
+          "0-6": "12",
+          "7-12": "14",
+          "13-25": "23",
+          "26-50": "27",
+          "51-100": "32",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Shotgun (Slug)": {
+      "name": "DV Shotgun (Slug)",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Shotgun”.</p>",
+      "results": [
+        {
+          "0-6": "13",
+          "7-12": "15",
+          "13-25": "20",
+          "26-50": "25",
+          "51-100": "30",
+          "101-200": "35",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Long Barrel Shotgun": {
+      "name": "DV Long Barrel Shotgun",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Long Barrel Shotgun”.</p>",
+      "results": [
+        {
+          "0-6": "14",
+          "7-12": "16",
+          "13-25": "15",
+          "26-50": "18",
+          "51-100": "25",
+          "101-200": "28",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Carbine": {
+      "name": "DV Carbine",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Carbine”.</p>",
+      "results": [
+        {
+          "0-6": "16",
+          "7-12": "15",
+          "13-25": "13",
+          "26-50": "15",
+          "51-100": "20",
+          "101-200": "25",
+          "201-400": "30",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Assault Rifle": {
+      "name": "DV Assault Rifle",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Assault Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "17",
+          "7-12": "16",
+          "13-25": "15",
+          "26-50": "13",
+          "51-100": "15",
+          "101-200": "20",
+          "201-400": "25",
+          "401-800": "30"
+        }
+      ]
+    },
+    "DV Battle Rifle": {
+      "name": "DV Battle Rifle",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Battle Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "18",
+          "7-12": "16",
+          "13-25": "16",
+          "26-50": "14",
+          "51-100": "14",
+          "101-200": "19",
+          "201-400": "24",
+          "401-800": "29"
+        }
+      ]
+    },
+    "DV Marksman Rifle": {
+      "name": "DV Marksman Rifle",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Marksman Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "20",
+          "7-12": "18",
+          "13-25": "17",
+          "26-50": "15",
+          "51-100": "14",
+          "101-200": "18",
+          "201-400": "21",
+          "401-800": "27"
+        }
+      ]
+    },
+    "DV Scout Rifle": {
+      "name": "DV Scout Rifle",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Scout Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "21",
+          "7-12": "20",
+          "13-25": "19",
+          "26-50": "18",
+          "51-100": "17",
+          "101-200": "17",
+          "201-400": "19",
+          "401-800": "24"
+        }
+      ]
+    },
+    "DV Sniper Rifle": {
+      "name": "DV Sniper Rifle",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Sniper Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "30",
+          "7-12": "25",
+          "13-25": "25",
+          "26-50": "20",
+          "51-100": "15",
+          "101-200": "16",
+          "201-400": "17",
+          "401-800": "20"
+        }
+      ]
+    },
+    "DV Anti-materiel Rifle": {
+      "name": "DV Anti-materiel Rifle",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Anti-materiel Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "30",
+          "7-12": "30",
+          "13-25": "28",
+          "26-50": "22",
+          "51-100": "15",
+          "101-200": "15",
+          "201-400": "16",
+          "401-800": "17"
+        }
+      ]
+    },
+    "DV Shortbow": {
+      "name": "DV Shortbow",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Shortbow”.</p>",
+      "results": [
+        {
+          "0-6": "13",
+          "7-12": "14",
+          "13-25": "16",
+          "26-50": "21",
+          "51-100": "22",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Bows & Crossbows": {
+      "name": "DV Bows & Crossbows",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Bow”.</p>",
+      "results": [
+        {
+          "0-6": "15",
+          "7-12": "13",
+          "13-25": "15",
+          "26-50": "17",
+          "51-100": "20",
+          "101-200": "22",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Longbow": {
+      "name": "DV Longbow",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Longbow”.</p>",
+      "results": [
+        {
+          "0-6": "17",
+          "7-12": "15",
+          "13-25": "13",
+          "26-50": "15",
+          "51-100": "17",
+          "101-200": "20",
+          "201-400": "22",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Grenade Launcher": {
+      "name": "DV Grenade Launcher",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Grenade Launcher”.</p>",
+      "results": [
+        {
+          "0-6": "16",
+          "7-12": "15",
+          "13-25": "15",
+          "26-50": "17",
+          "51-100": "20",
+          "101-200": "22",
+          "201-400": "25",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Rocket Launcher": {
+      "name": "DV Rocket Launcher",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Rocket Launcher”.</p>",
+      "results": [
+        {
+          "0-6": "17",
+          "7-12": "16",
+          "13-25": "15",
+          "26-50": "15",
+          "51-100": "20",
+          "101-200": "20",
+          "201-400": "25",
+          "401-800": "30"
+        }
+      ]
+    },
+    "DV Missile Launcher": {
+      "name": "DV Missile Launcher",
+      "description": "<p>Solo of Fortune: expanded range DV table for “Missile Launcher”.</p>",
+      "results": [
+        {
+          "0-6": "30",
+          "7-12": "25",
+          "13-25": "25",
+          "26-50": "20",
+          "51-100": "17",
+          "101-200": "20",
+          "201-400": "20",
+          "401-800": "20"
+        }
+      ]
+    },
+    "DV Pistol (Autofire)": {
+      "name": "DV Pistol (Autofire)",
+      "description": "<p>Solo of Fortune: expanded Autofire DVs based on range for “Machine Pistol”.</p>",
+      "results": [
+        {
+          "0-6": "17",
+          "7-12": "20",
+          "13-25": "22",
+          "26-50": "27",
+          "51-100": "30",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV SMG (Autofire)": {
+      "name": "DV SMG (Autofire)",
+      "description": "<p>Solo of Fortune: expanded Autofire DVs based on range for “SMGs”.</p>",
+      "results": [
+        {
+          "0-6": "20",
+          "7-12": "17",
+          "13-25": "20",
+          "26-50": "25",
+          "51-100": "30",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Assault Rifle (Autofire)": {
+      "name": "DV Assault Rifle (Autofire)",
+      "description": "<p>Solo of Fortune: expanded Autofire DVs based on range for “Assault Rifle”.</p>",
+      "results": [
+        {
+          "0-6": "22",
+          "7-12": "20",
+          "13-25": "17",
+          "26-50": "20",
+          "51-100": "25",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Machine Gun (Autofire)": {
+      "name": "DV Machine Gun (Autofire)",
+      "description": "<p>Solo of Fortune: expanded Autofire DVs based on range for “Machine Gun”.</p>",
+      "results": [
+        {
+          "0-6": "21",
+          "7-12": "18",
+          "13-25": "18",
+          "26-50": "19",
+          "51-100": "25",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    },
+    "DV Machine Gun": {
+      "name": "DV Machine Gun",
+      "description": "<p>Auxiliary base table for CPR Core Autofire compatibility. All values are N/A; assign this table to a Machine Gun so Autofire automatically uses “DV Machine Gun (Autofire)”.</p>",
+      "results": [
+        {
+          "0-6": "N/A",
+          "7-12": "N/A",
+          "13-25": "N/A",
+          "26-50": "N/A",
+          "51-100": "N/A",
+          "101-200": "N/A",
+          "201-400": "N/A",
+          "401-800": "N/A"
+        }
+      ]
+    }
+  }
+}
